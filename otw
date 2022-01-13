@@ -1,0 +1,43 @@
+level1 - boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+l2 - CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+l3 - UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+l4 - pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+l5 - koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+l6 - DXjZPULLxYr17uwoI01bNLQbtFemEgo7   
+l7 - HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+l8 - cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+l9 - UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+l10 - truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+l11 - IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+l12 - 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+l13 - 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+l14 - 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+l15 - BfMYroe26WYalil77FoDi9qh59eK5xNr
+l16 - cluFn7wTiGryunymYOu4RcffSxQluehd
+l17 - xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+l18 - kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+ssh -t bandit18@localhost bash --norc --noprofile
+l19 - IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+l20 - GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+l21 - gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+l22 - Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+l23 - jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+l24 - UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+l25 - uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+ssh using small terminal and then enter vim and use 
+:e /etc/... to get the pass and :set shell = /bin/bash and :shell
+l26 - 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+l27 - 3ba3118a22e93127a4ed485be72ef5ea
+l28 - 0ef186ac70e04ea33b4c1853d2526fa2
+check git log and then restore to prev commit using git checkout ...
+l29 - bbc96594b4e001778eee9975372716b2
+l30 - 5b90576bedb2cc04c86a9e924ce42faf
+l31 - 47e603bb428404d265f59c42920d81e5
+l32 - 56a9bf19c63d650ce78e6ec0354ee45e
+
+
+
+
+
